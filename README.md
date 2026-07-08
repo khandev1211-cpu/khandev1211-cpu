@@ -16,12 +16,16 @@
 
 ## 🧠 About Me
 
-I'm a **Software Developer & AI/ML Engineer** from Pakistan, specializing in building things that most developers never attempt — from custom programming languages to AI-powered desktop IDEs to full-stack dubbing pipelines.
+I'm a **self-taught Software Developer & AI/ML Engineer** from Faisalabad, Pakistan, specializing in building things that most developers never attempt — from custom programming languages to AI-native IDEs to full production platforms deployed on my own VPS infrastructure.
 
-- 🦀 Built **Khan** — a programming language from scratch in pure C (lexer → parser → AST → interpreter)
+- 🦀 Built **Khan** — a programming language from scratch in pure C, now growing into a full ecosystem (compiler, `kh` package manager, stdlib, in-progress bytecode VM)
+- 🕌 Built **SunnahSource** — an Islamic API platform (Quran, hadith, fonts) with a full admin panel and crypto payment system
+- 🔐 Built **WebSec Advanced Scanner** — a multi-version web security testing platform, now at V6 with an intercepting proxy & repeater
+- 📝 Built **CodePulse** — an AI-powered Django blog that auto-generates and publishes content
 - 🖥️ Built **CodeDroid** — an AI-native desktop IDE with Monaco Editor, 4 LLM providers & a Rust native addon
 - 🎙️ Built **AI-Dub** — a full AI video dubbing pipeline (Whisper + NLLB + Coqui TTS + Wav2Lip)
-- 🤖 Specialize in **RAG pipelines**, **LangChain**, **LLM orchestration**, and **agentic AI systems**
+- 🤖 Deep experience with **RAG pipelines, LangChain, multi-model orchestration**, and agentic AI systems across Groq, OpenAI, Gemini, and Hugging Face
+- 🖧 Run and maintain my own **VPS infrastructure** (Ubuntu, Nginx, PM2, systemd) hosting multiple live production apps
 - 🌍 Open to **remote opportunities** and **freelance projects** worldwide
 - 📬 Reach me at **khandev1211@gmail.com**
 
@@ -34,15 +38,54 @@ I'm a **Software Developer & AI/ML Engineer** from Pakistan, specializing in bui
 <td width="33%" valign="top">
 
 ### 🔤 [Khan Language](https://github.com/khandev1211-cpu/Khan)
-A custom programming language built **from scratch in pure C**.
+A custom programming language built **from scratch in pure C**, growing into a full ecosystem.
 
 - Python-style indentation scoping
 - Full lexer → parser → AST → interpreter pipeline
-- Recursive descent / Pratt-style expression parsing
-- Closures, lexical scoping, dynamic typing
-- 18 AST node types, 46 token types
+- `kh` package manager & standard library packages
+- In-development bytecode VM
+- Long-term vision: **Khan Engine** (3D game engine) & **Khan Studio**, AI-native 3D tools scripted in Khan
 
 `C` `Compiler Design` `Interpreter` `Systems`
+
+</td>
+<td width="33%" valign="top">
+
+### 🕌 SunnahSource
+An **Islamic API platform** serving Quran, hadith, and font data to developers.
+
+- Full public site + admin panel redesign
+- Multi-script hadith translation pipeline (EN/UR → Indonesian, Russian, Turkish)
+- BEP-20 crypto payment system for API key bookings
+- Deployed and maintained on a self-managed VPS
+
+`Python` `FastAPI` `PostgreSQL` `VPS` `Nginx`
+
+</td>
+<td width="33%" valign="top">
+
+### 🔐 WebSec Advanced Scanner
+A **multi-version web security testing platform**, currently at V6.
+
+- Intercepting proxy & request repeater
+- Vulnerability scanning workflow built version-over-version
+- Built for hands-on web app security testing
+
+`Python` `Security Testing` `Networking`
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+### 📝 CodePulse
+An **AI-powered Django blog** that generates and publishes its own content.
+
+- Groq-primary AI content generation with diversified topic sourcing
+- Reddit API integration for topic discovery
+- SEO-hardened: sitemap, robots.txt, gunicorn/VPS hosting fixes
+
+`Django` `Python` `Groq API` `SEO`
 
 </td>
 <td width="33%" valign="top">
@@ -54,7 +97,6 @@ An **AI-native desktop IDE** — rebuilt from Flutter to TypeScript + Python + R
 - 4 AI providers: Groq, Gemini, Claude, Ollama
 - 11 agentic tools (file ops, git, run code, web fetch)
 - Rust native addon (ripgrep search, git2 diff)
-- 16 themes, xterm.js multi-tab terminal
 
 `TypeScript` `Electron` `Python` `Rust` `FastAPI`
 
@@ -66,8 +108,7 @@ A **full-stack AI video dubbing pipeline** — upload a video, get it dubbed in 
 
 - OpenAI Whisper transcription
 - Meta NLLB translation (200+ languages)
-- Coqui XTTS v2 voice cloning
-- Optional Wav2Lip lip synchronization
+- Coqui XTTS v2 voice cloning + optional Wav2Lip lip sync
 - React + FastAPI, job-based progress tracking
 
 `Python` `FastAPI` `React` `Whisper` `TTS`
@@ -87,6 +128,7 @@ A **full-stack AI video dubbing pipeline** — upload a video, get it dubbed in 
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ### Backend
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -94,6 +136,7 @@ A **full-stack AI video dubbing pipeline** — upload a video, get it dubbed in 
 ### Frontend & Desktop
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
@@ -106,6 +149,7 @@ A **full-stack AI video dubbing pipeline** — upload a video, get it dubbed in 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
@@ -132,17 +176,22 @@ A **full-stack AI video dubbing pipeline** — upload a video, get it dubbed in 
 ```python
 expertise = {
     "AI / ML":        ["RAG Pipelines", "LangChain", "Vector DBs", "LLM Orchestration",
-                       "Whisper", "XTTS", "OpenAI API", "NLP"],
+                       "Multi-model chat systems", "Whisper", "XTTS", "OpenAI/Groq/Gemini APIs"],
     "Systems":        ["Custom Language Design", "Compiler Construction", "Lexer/Parser",
-                       "Tree-walk Interpreter", "Rust Native Addons"],
-    "Backend":        ["FastAPI", "Flask", "Node.js", "REST APIs", "WebSocket"],
-    "Desktop / UI":   ["Electron", "Monaco Editor", "React", "Flutter"],
-    "Databases":      ["MongoDB", "PostgreSQL", "Vector Databases", "Redis"],
-    "DevOps":         ["Docker", "Linux", "Git", "VPS Deployment", "systemd"],
+                       "Tree-walk Interpreter", "Bytecode VM (WIP)", "Rust Native Addons"],
+    "Backend":        ["Django", "FastAPI", "Flask", "Node.js", "REST APIs", "WebSocket"],
+    "Desktop / UI":   ["Electron", "Monaco Editor", "React", "Next.js", "Flutter"],
+    "Databases":      ["PostgreSQL", "MongoDB", "SQLite", "Redis"],
+    "DevOps":         ["Docker", "Linux", "Git", "VPS Deployment", "Nginx", "PM2", "systemd"],
+    "Security":       ["Web app vulnerability scanning", "Intercepting proxies", "Auth/CORS hardening"],
 }
 
-currently_building = "Multi-agent AI crypto trading system with ML-driven SL/TP optimization"
-open_to            = ["Remote Full-time", "Contract", "Freelance", "Open Source Collab"]
+currently_building = [
+    "Khan Engine & Khan Studio — AI-native 3D tools scripted in Khan",
+    "WebSec Advanced Scanner V6+ — intercepting proxy & repeater",
+]
+
+open_to = ["Remote Full-time", "Contract", "Freelance", "Open Source Collab"]
 ```
 
 ---
