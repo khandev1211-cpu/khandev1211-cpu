@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F69673&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Irfan+Khan+%F0%9F%91%8B;I+build+languages%2C+IDEs+%26+AI+pipelines;Python+%7C+C+%7C+TypeScript+%7C+Rust;Open+to+Remote+Opportunities+%F0%9F%8C%8D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F69673&center=true&vCenter=true&width=700&lines=Irfan+Khan;Software+Developer+%26+AI%2FML+Engineer;Languages+%7C+IDEs+%7C+AI+Pipelines+%7C+Systems;Open+to+Remote+Opportunities)](https://git.io/typing-svg)
 
 <br/>
 
@@ -14,112 +14,121 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
-I'm a **self-taught Software Developer & AI/ML Engineer** from Faisalabad, Pakistan, specializing in building things that most developers never attempt — from custom programming languages to AI-native IDEs to full production platforms deployed on my own VPS infrastructure.
+Software Developer & AI/ML Engineer based in Faisalabad, Pakistan, specializing in systems programming, AI-integrated applications, and full-stack platforms — from custom programming languages to production systems deployed on self-managed infrastructure.
 
-- 🦀 Built **Khan** — a programming language from scratch in pure C, now growing into a full ecosystem (compiler, `kh` package manager, stdlib, in-progress bytecode VM)
-- 🕌 Built **SunnahSource** — an Islamic API platform (Quran, hadith, fonts) with a full admin panel and crypto payment system
-- 🔐 Built **WebSec Advanced Scanner** — a multi-version web security testing platform, now at V6 with an intercepting proxy & repeater
-- 📝 Built **CodePulse** — an AI-powered Django blog that auto-generates and publishes content
-- 🖥️ Built **CodeDroid** — an AI-native desktop IDE with Monaco Editor, 4 LLM providers & a Rust native addon
-- 🎙️ Built **AI-Dub** — a full AI video dubbing pipeline (Whisper + NLLB + Coqui TTS + Wav2Lip)
-- 🤖 Deep experience with **RAG pipelines, LangChain, multi-model orchestration**, and agentic AI systems across Groq, OpenAI, Gemini, and Hugging Face
-- 🖧 Run and maintain my own **VPS infrastructure** (Ubuntu, Nginx, PM2, systemd) hosting multiple live production apps
-- 🌍 Open to **remote opportunities** and **freelance projects** worldwide
-- 📬 Reach me at **khandev1211@gmail.com**
+**Highlights**
+
+- **Khan** — a programming language built from scratch in pure C, evolving into a full ecosystem (compiler, `kh` package manager, standard library, in-progress bytecode VM)
+- **CodeStudio Recorder** — a professional Windows screen recorder built with Flutter and a C++20 native engine, featuring hardware-accelerated encoding and real-time creator effects
+- **SunnahSource** — an Islamic API platform (Quran, hadith, fonts) with a full admin panel and an on-chain payment system
+- **WebSec Advanced Scanner** — a multi-version web security testing platform, currently at V6 with an intercepting proxy and repeater
+- **CodePulse** — an AI-powered Django blog that generates and publishes its own content
+- **CodeDroid** — an AI-native desktop IDE with Monaco Editor, four LLM providers, and a Rust native addon
+- **AI-Dub** — a full AI video dubbing pipeline (Whisper, NLLB, Coqui TTS, Wav2Lip)
+
+Deep working experience with RAG pipelines, LangChain, and multi-model LLM orchestration across Groq, OpenAI, Gemini, and Hugging Face. I also design, deploy, and maintain my own VPS infrastructure (Ubuntu, Nginx, PM2, systemd) hosting multiple live production applications.
+
+Open to remote full-time, contract, and freelance opportunities.
+**Email:** khandev1211@gmail.com
 
 ---
 
-## 🚀 Flagship Projects
+## Flagship Projects
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### 🔤 [Khan Language](https://github.com/khandev1211-cpu/Khan)
-A custom programming language built **from scratch in pure C**, growing into a full ecosystem.
+### [Khan Language](https://github.com/khandev1211-cpu/Khan)
+A custom programming language built from scratch in pure C.
 
 - Python-style indentation scoping
 - Full lexer → parser → AST → interpreter pipeline
-- `kh` package manager & standard library packages
+- `kh` package manager and standard library
 - In-development bytecode VM
-- Long-term vision: **Khan Engine** (3D game engine) & **Khan Studio**, AI-native 3D tools scripted in Khan
+- Long-term vision: **Khan Engine** and **Khan Studio** — AI-native 3D tools scripted in Khan
 
 `C` `Compiler Design` `Interpreter` `Systems`
 
 </td>
 <td width="33%" valign="top">
 
-### 🕌 SunnahSource
-An **Islamic API platform** serving Quran, hadith, and font data to developers.
+### [CodeStudio Recorder](https://github.com/khandev1211-cpu/CodeStudioRecorder)
+A high-performance Windows screen recorder built with Flutter and a C++20 native engine.
 
-- Full public site + admin panel redesign
-- Multi-script hadith translation pipeline (EN/UR → Indonesian, Russian, Turkish)
-- BEP-20 crypto payment system for API key bookings
-- Deployed and maintained on a self-managed VPS
+- Windows Graphics Capture (WGC) for low-latency 60FPS+ recording
+- Hardware-accelerated encoding: NVENC, QuickSync, AMF
+- WASAPI system loopback and microphone audio
+- Real-time Direct2D creator effects: cursor highlighting, click animations
+- Automated CI builds via GitHub Actions
 
-`Python` `FastAPI` `PostgreSQL` `VPS` `Nginx`
+`Flutter` `Dart` `C++20` `FFI` `WinRT`
 
 </td>
 <td width="33%" valign="top">
 
-### 🔐 WebSec Advanced Scanner
-A **multi-version web security testing platform**, currently at V6.
+### SunnahSource
+An Islamic API platform serving Quran, hadith, and font data to developers.
 
-- Intercepting proxy & request repeater
-- Vulnerability scanning workflow built version-over-version
-- Built for hands-on web app security testing
+- Full public site and admin panel redesign
+- Multi-script hadith translation pipeline (EN/UR → Indonesian, Russian, Turkish)
+- On-chain (BEP-20) payment system for API key provisioning
+- Deployed and maintained on a self-managed VPS
 
-`Python` `Security Testing` `Networking`
+`Python` `FastAPI` `PostgreSQL` `VPS` `Nginx`
 
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
 
-### 📝 CodePulse
-An **AI-powered Django blog** that generates and publishes its own content.
+### WebSec Advanced Scanner
+A multi-version web security testing platform, currently at V6.
+
+- Intercepting proxy and request repeater
+- Iteratively expanded vulnerability scanning workflow
+- Built for hands-on web application security testing
+
+`Python` `Security Testing` `Networking`
+
+</td>
+<td width="33%" valign="top">
+
+### CodePulse
+An AI-powered Django blog that generates and publishes its own content.
 
 - Groq-primary AI content generation with diversified topic sourcing
 - Reddit API integration for topic discovery
-- SEO-hardened: sitemap, robots.txt, gunicorn/VPS hosting fixes
+- Production-hardened: sitemap, robots.txt, Gunicorn/VPS fixes, SEO tuning
 
 `Django` `Python` `Groq API` `SEO`
 
 </td>
 <td width="33%" valign="top">
 
-### 🖥️ [CodeDroid IDE](https://github.com/khandev1211-cpu/CodeDroid)
-An **AI-native desktop IDE** — rebuilt from Flutter to TypeScript + Python + Rust.
+### [CodeDroid IDE](https://github.com/khandev1211-cpu/CodeDroid)
+An AI-native desktop IDE, rebuilt from Flutter to TypeScript + Python + Rust.
 
 - Monaco Editor (VS Code's core engine)
-- 4 AI providers: Groq, Gemini, Claude, Ollama
-- 11 agentic tools (file ops, git, run code, web fetch)
+- Four AI providers: Groq, Gemini, Claude, Ollama
+- Eleven agentic tools (file ops, git, code execution, web fetch)
 - Rust native addon (ripgrep search, git2 diff)
 
 `TypeScript` `Electron` `Python` `Rust` `FastAPI`
 
 </td>
-<td width="33%" valign="top">
-
-### 🎙️ [AI-Dub](https://github.com/khandev1211-cpu/AI-Dub)
-A **full-stack AI video dubbing pipeline** — upload a video, get it dubbed in another language.
-
-- OpenAI Whisper transcription
-- Meta NLLB translation (200+ languages)
-- Coqui XTTS v2 voice cloning + optional Wav2Lip lip sync
-- React + FastAPI, job-based progress tracking
-
-`Python` `FastAPI` `React` `Whisper` `TTS`
-
-</td>
 </tr>
 </table>
 
+### Other Notable Work
+
+**[AI-Dub](https://github.com/khandev1211-cpu/AI-Dub)** — a full-stack AI video dubbing pipeline combining OpenAI Whisper transcription, Meta NLLB translation across 200+ languages, Coqui XTTS v2 voice cloning, and optional Wav2Lip lip synchronization, with a React + FastAPI job-tracking frontend.
+
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### AI / ML
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -154,12 +163,12 @@ A **full-stack AI video dubbing pipeline** — upload a video, get it dubbed in 
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=khandev1211-cpu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khandev1211-cpu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=khandev1211-cpu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khandev1211-cpu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400"/>
 
 </div>
 
@@ -171,32 +180,33 @@ A **full-stack AI video dubbing pipeline** — upload a video, get it dubbed in 
 
 ---
 
-## 💡 What I Do Best
+## Areas of Expertise
 
 ```python
 expertise = {
-    "AI / ML":        ["RAG Pipelines", "LangChain", "Vector DBs", "LLM Orchestration",
-                       "Multi-model chat systems", "Whisper", "XTTS", "OpenAI/Groq/Gemini APIs"],
-    "Systems":        ["Custom Language Design", "Compiler Construction", "Lexer/Parser",
-                       "Tree-walk Interpreter", "Bytecode VM (WIP)", "Rust Native Addons"],
-    "Backend":        ["Django", "FastAPI", "Flask", "Node.js", "REST APIs", "WebSocket"],
-    "Desktop / UI":   ["Electron", "Monaco Editor", "React", "Next.js", "Flutter"],
-    "Databases":      ["PostgreSQL", "MongoDB", "SQLite", "Redis"],
-    "DevOps":         ["Docker", "Linux", "Git", "VPS Deployment", "Nginx", "PM2", "systemd"],
-    "Security":       ["Web app vulnerability scanning", "Intercepting proxies", "Auth/CORS hardening"],
+    "AI / ML":       ["RAG pipelines", "LangChain", "vector databases", "LLM orchestration",
+                       "multi-model chat systems", "Whisper", "XTTS", "OpenAI/Groq/Gemini APIs"],
+    "Systems":       ["custom language design", "compiler construction", "lexer/parser design",
+                       "tree-walk interpreters", "bytecode VM (in progress)", "Rust native addons"],
+    "Backend":       ["Django", "FastAPI", "Flask", "Node.js", "REST APIs", "WebSocket"],
+    "Desktop / UI":  ["Electron", "Monaco Editor", "React", "Next.js", "Flutter"],
+    "Databases":     ["PostgreSQL", "MongoDB", "SQLite", "Redis"],
+    "DevOps":        ["Docker", "Linux", "Git", "VPS deployment", "Nginx", "PM2", "systemd"],
+    "Security":      ["web application vulnerability scanning", "intercepting proxies", "auth/CORS hardening"],
 }
 
 currently_building = [
     "Khan Engine & Khan Studio — AI-native 3D tools scripted in Khan",
-    "WebSec Advanced Scanner V6+ — intercepting proxy & repeater",
+    "CodeStudio Recorder — Phase 2 creator tools (Smart Zoom, plugin SDK)",
+    "WebSec Advanced Scanner — intercepting proxy & repeater, V6+",
 ]
 
-open_to = ["Remote Full-time", "Contract", "Freelance", "Open Source Collab"]
+open_to = ["Remote full-time", "Contract", "Freelance", "Open source collaboration"]
 ```
 
 ---
 
-## 🤝 Let's Connect
+## Contact
 
 <div align="center">
 
