@@ -212,7 +212,7 @@ open_to = ["Remote full-time", "Contract", "Freelance", "Open source collaborati
 
 [![GitHub](https://img.shields.io/badge/GitHub-khandev1211--cpu-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khandev1211-cpu)
 [![Gmail](https://img.shields.io/badge/Gmail-khandev1211%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khandev1211@gmail.com)
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support%20My%20Work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/khandev1211)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support%20My%20Work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/khandev121p)
 
 </div>
 
